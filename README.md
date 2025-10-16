@@ -1,2 +1,2 @@
-# Projecto-de-Power-BI
-Este projecto foi desenvolvido no Power BI, uma ferramenta da Microsoft de BI (Business Intelligence) que nos permite coletar, transformar, analisar e visualizar dados para apoiar na tomada de decisões estratégicas nas empresas/organizações. Nesta onda de ideias, desenvolvi um dashboard que espelha a "Análise de Vendas" de uma empresa fictícia.  
+# Projectos-de-Power-BI
+Estes projectos foram desenvolvidos no Power BI, uma ferramenta da Microsoft de BI (Business Intelligence) que nos permite coletar, transformar, analisar e visualizar dados para apoiar na tomada de decisões estratégicas nas empresas/organizações. Nesta onda de ideias, desenvolvi dashboards (Painéis Visuais) que espelham a "Análise dos Dados" de empresas fictícias, exportando dados de diferentes fontes com suporte ao ambiente do Power Query para a transformação de dados (ETL de Dados).  
